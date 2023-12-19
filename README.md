@@ -5,7 +5,7 @@ The integrated WiFi chipset also works.
 
 NOTE: disconnect any ethernet cables during the install and only use WiFi.
 
-My specs:
+System specs at the time this was being used:
 CPU: Ryzen 3700x
 Memory: 16GB 3200Mhz
 Video Card: 7900XTX (the reason I have stopped using this build, Apple does not support this card)
