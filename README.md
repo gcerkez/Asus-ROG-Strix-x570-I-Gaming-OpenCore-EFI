@@ -1,6 +1,9 @@
 # Asus-ROG-Strix-x570-I-Gaming-OpenCore-EFI
 
 This is a working OpenCore based EFI for an Asus ROG Strix x570-I Gaming system.
+The integrated WiFi chipset also works.
+
+NOTE: disconnect any ethernet cables during the install and only use WiFi.
 
 My specs:
 CPU: Ryzen 3700x
